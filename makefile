@@ -1,6 +1,6 @@
 say_hello:
-	@echo "Hello from cvam"
+	@echo "Hello make me with love thankyou XD "
 
-edit:
+editreadme:
 	@echo "editing the README.md....."
-	vim README.md
+	vim README.m
